@@ -3,7 +3,7 @@
 **Authors:** Tristan Endo, Professor Alexander Cloninger  
 **Institution:** University of California, San Diego  
 **Year:** 2026
-[NNGPCK Paper (PDF)](NNGP_paper.pdf)
+**[NNGPCK Paper (PDF)](NNGP_paper.pdf)**
 
 ## Overview
 
