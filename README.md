@@ -3,7 +3,7 @@
 **Authors:** Tristan Endo, Professor Alexander Cloninger  
 **Institution:** University of California, San Diego  
 **Year:** 2026
-**[NNGPCK Paper (PDF)](NNGP_paper.pdf)**
+**[NNGPCK Paper (PDF)]([NNGP_paper.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Tristane028/Neural-Network-Gaussian-Process-and-Conjugate-Kernels/main/NNGP_paper.pdf))**
 
 ## Overview
 
